@@ -1,0 +1,4 @@
+gcc -Wall -o blink blink.c -lwiringPi
+sudo ./blink
+
+gcc -Wall -o pic_spi pic_spi.c -lwiringPi -lncurses
