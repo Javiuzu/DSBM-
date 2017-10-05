@@ -1,4 +1,4 @@
-# DSBM-
+# DSBM- System Design Based on Microcomputers
 
 Project for the subject of System Design Based on Microcomputers at Facultat d'Informàtica de Barcelona, UPC. 
 
